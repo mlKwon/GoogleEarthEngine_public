@@ -6,4 +6,5 @@ https://code.earthengine.google.com/?accept_repo=users/zl38zone/monthly_daily_av
 shp file link : https://code.earthengine.google.com/?asset=users/zl38zone/sgg_2021_2
 
 I can share you the sigungu base shp file in daily averages, but not for monthly averages.<br>
-If you need it, use sigungu base shp file that I shared.
+If you need it, use sigungu base shp file that I shared. <br>
+Copy the code, adjust your shp file, and modify the part related to shp file what i wrote.
