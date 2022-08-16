@@ -6,6 +6,7 @@ Shapefile was downloaded from SGIS (https://sgis.kostat.go.kr/). <br>
 
 https://code.earthengine.google.com/?accept_repo=users/zl38zone/gee_example
 
-# example shape file in GEE
+## example shape file in GEE
+click the link and import it. Then you can run above code.
 https://code.earthengine.google.com/?asset=users/zl38zone/bnd_sigungu_00_2021_2021_2Q
 
